@@ -7,7 +7,7 @@ https://setupmc.com/java-server/
 VM: 2CPU/2RAM (Docker)
 
 ```
-git clone git@github.com:pirxon/minecraft-server.git
+git clone git@github.com:vadimslatin/minecraft-server.git
 cd ../minecraft-server
 docker compose up -d
 docker compose logs -f
